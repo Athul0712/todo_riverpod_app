@@ -12,7 +12,7 @@ Supports adding, viewing, updating, and deleting todos.
 
 ## Screenshots
 
-_(Optional: Add screenshots of your app here for a better visual)_
+![Todo App Home Screen](assets/screenshots/home_screen.png)
 
 ## Getting Started
 
