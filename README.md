@@ -12,7 +12,7 @@ Supports adding, viewing, updating, and deleting todos.
 
 ## Screenshots
 
-![Todo App Home Screen](assets/screenshots/home_screen.png)
+![Todo App Home Screen](assets/screenshots/todo_App_phase1.jpg)
 
 ## Getting Started
 
